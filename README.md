@@ -4,7 +4,7 @@
 
 The [Sempiler project](https://sempiler.com) is a monorepo compiler that emits native x-platform code for the client, server and database artifacts that power any app idea, without developers having to learn myriad programming languages or sacrifice runtime performance.
 
-Sempiler takes a single TypeScript file as input. The developer articulates the build configuration and artifacts in TypeScript directly, without the need for additional files, and instructs the compiler via `#directives`.
+Sempiler initially takes a single TypeScript file as input. The developer articulates the build configuration and artifacts in TypeScript directly, and instructs the compiler via `#directives`.
 
 By default the compiler will infer where to find source files (`./src/`) for each artifact, and where to emit the results (`./out`) for each artifact.
 
