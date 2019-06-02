@@ -46,9 +46,9 @@ I have recorded a [short video](https://youtu.be/dzjQUAYNL60) demonstrating the 
 
 ## Closing Remarks
 
-Given more time I would have like the compiler to generate the networking communication between the Now backend and Android frontend automatically.
+Given more time I would have liked the compiler to generate the networking communication between the Now backend and Android frontend automatically.
 
-Overall I'm happy with the result, and thank everyone at Zeit for hosting this event which proved to be the breath of fresh air I needed!
+Overall I'm happy with the result, and wish to thank everyone at Zeit for hosting this event which proved to be the breath of fresh air I needed!
 
 Kind regards
 Darius Hodaei
