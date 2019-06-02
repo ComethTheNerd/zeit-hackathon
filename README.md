@@ -50,6 +50,4 @@ Given more time I would have liked the compiler to generate the networking commu
 
 Overall I'm happy with the result, and wish to thank everyone at Zeit for hosting this event which proved to be the breath of fresh air I needed!
 
-Kind regards
-
-Darius Hodaei
+Darius
